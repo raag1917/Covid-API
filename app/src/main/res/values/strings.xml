@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid API</string>
+    <string name="fecha">Fecha</string>
+    <string name="atlantico">Atlántico</string>
+    <string name="antioquia">Antioquia</string>
+    <string name="bogota">Bogotá</string>
+    <string name="caldas">Caldas</string>
+    <string name="santander">Santander</string>
+    <string name="cali">Calle del Cauca</string>
+    <string name="_0">0</string>
+</resources>
